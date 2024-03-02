@@ -4,7 +4,6 @@
     "homepage": "https://www.cpuid.com/softwares/cpu-z.html",
     "license": "Freeware",
     "url": "https://download.cpuid.com/cpu-z/cpu-z_2.08-cn.zip",
-    "hash": "",
     "architecture": {
         "64bit": {
             "bin": [
@@ -41,6 +40,6 @@
         "regex": "Version ([\\d\\.]+) for windows&reg; x86/x64"
     },
     "autoupdate": {
-        "url": "https://download.cpuid.com/cpu-z/cpu-z_$version-cn.zip"
+        "url": "https://download.cpuid.com/cpu-z/cpu-z_$version-cn.zip",
     }
 }
