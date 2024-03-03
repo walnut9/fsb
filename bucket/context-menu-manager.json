@@ -6,6 +6,7 @@
         "Win8及以上版本自带.NET4.0运行库, 可直接运行.",
         "Win7及以下版本未自带, 需安装相应运行库: https://dotnet.microsoft.com/download/dotnet-framework"
     ],
+    "license": "license",
     "url": "https://github.com/BluePointLilac/ContextMenuManager/releases/download/3.3.3.1/ContextMenuManager.zip",
     "checkver": {
         "url": "https://api.github.com/repos/BluePointLilac/ContextMenuManager/releases/latest",
