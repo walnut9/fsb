@@ -40,6 +40,6 @@
         "regex": "Version ([\\d\\.]+) for windows&reg; x86/x64"
     },
     "autoupdate": {
-        "url": "https://download.cpuid.com/cpu-z/cpu-z_$version-cn.zip",
+        "url": "https://download.cpuid.com/cpu-z/cpu-z_$version-cn.zip"
     }
 }
